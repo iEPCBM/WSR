@@ -1,4 +1,4 @@
-# web_broadcast_service
+# Web broadcast service (WBCS)
 
 ## Project setup
 ```
