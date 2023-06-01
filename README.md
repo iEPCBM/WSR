@@ -22,3 +22,6 @@ Checkout to production branch:
 git checkout production
 ```
 Open file `index.html` on your browser.
+
+## License
+MIT License
