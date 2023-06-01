@@ -1,24 +1,25 @@
-# Web broadcast service (WBCS)
+# Web screen record service (WSR)
 
-## Project setup
-```
-npm install
-```
+Record your screen online! Completely anonymously!
+This app has not backend. All recorded data is stored on the client side.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to use
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Open GitHub page: https://iepcbm.github.io/WSR/
+2. Click on "Capture screen"
+3. Choose a window for capture
+4. Click on "Start recording"
+5. Record your screen
+6. Click on "Stop recording"
+7. Click on download link 
 
-### Lints and fixes files
+## Running the app offline
+Clone the repo:
 ```
-npm run lint
+git clone https://github.com/iEPCBM/WSR.git
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Checkout to production branch:
+```
+git checkout production
+```
+Open file `index.html` on your browser.
