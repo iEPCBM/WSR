@@ -1,7 +1,6 @@
 # Web screen record service (WSR)
 
-Record your screen online! Completely anonymously!
-This app has not backend. All recorded data is stored on the client side.
+Record your screen online! Completely anonymously and free! Without any watermarks. This app has not backend. All recorded data is stored on the client side.
 
 ## How to use
 
